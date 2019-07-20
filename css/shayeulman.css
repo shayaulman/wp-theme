@@ -1,0 +1,13 @@
+/*
+@package shayeulman-theme
+*/
+
+.shayeulman-general-form,
+.shayeulman-sidebar-preview { display: inline-block; float: left; }
+
+.shayeulman-sidebar-preview { width: 280px; background-color: #1F1F1F; padding: 20px; text-align: center; margin-right: 20px; }
+.shayeulman-sidebar { display: block; text-align: center; }
+h1.shayeulman-username,
+h2.shayeulman-description { font-weight: 100; color: #fff; }
+h1.shayeulman-username { font-size: 24px; margin: 0 0 10px; }
+h2.shayeulman-description { font-size: 13px; margin: 0 0 20px; }
